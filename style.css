@@ -1,0 +1,39 @@
+/** @format */
+body {
+  color: white;
+  background-color: #141414;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.container {
+  max-width: 1400px;
+  margin: 0, auto;
+}
+.icons {
+  color: white;
+  font-size: 20px;
+  vertical-align: middle;
+}
+.footer-icons {
+  font-size: 20px;
+  padding-right: 10px;
+  color: rgb(128, 125, 125);
+}
+footer {
+  width: 700px;
+}
+.icon {
+}
+a,
+span {
+  font-size: 15px;
+  color: grey;
+}
+.service-btn {
+  background-color: #202020;
+  color: rgb(146, 146, 146);
+  border: 1px solid rgb(146, 146, 146);
+}
+
+button {
+  background-color: #141414;
+}
