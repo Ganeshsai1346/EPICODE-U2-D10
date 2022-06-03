@@ -21,10 +21,19 @@ body {
 footer {
   width: 700px;
 }
-
+.new-badge {
+  position: absolute;
+  bottom: -0.5rem;
+  right: 0;
+  width: 50px;
+  height: 45px;
+}
 a,
 span {
   font-size: 15px;
+  color: grey;
+}
+a:hover {
   color: grey;
 }
 .service-btn {
@@ -35,4 +44,8 @@ span {
 
 button {
   background-color: #141414;
+}
+
+.color-btn:hover {
+  background: linear-gradient(270deg, #cddc39, #4caf50, #00bcd4);
 }
